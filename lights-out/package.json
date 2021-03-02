@@ -4,10 +4,13 @@
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.3.7",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
     "graphql": "^15.4.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^2.1.8"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^2.1.8",
+    "webpack-cli": "^4.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
